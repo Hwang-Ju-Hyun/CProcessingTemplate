@@ -1,0 +1,5 @@
+﻿  level_Editor.c
+  MemoryPool.c
+  MemPoolGameState.c
+  코드를 생성하고 있습니다...
+C:\Users\BCA\Desktop\CPP\MemPoolGameState\MemPoolGameState\MemPoolGameState.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'cprocessing.h': No such file or directory
